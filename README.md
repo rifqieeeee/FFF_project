@@ -1,4 +1,4 @@
-![image](https://github.com/rifqieeeee/FFF_project/assets/52254229/c913a719-798e-46b1-b437-60c1332ab0ee)# FFF Project (Flame-Free Farm)
+# FFF Project (Flame-Free Farm)
 
 Link : https://maker.wiznet.io/rifqieeeee/contest/fff%2Dproject%2Dflame%2Dfree%2Dfarm/
 
