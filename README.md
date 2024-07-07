@@ -1,4 +1,4 @@
-# FFF Project (Flame-Free Farm)
+![image](https://github.com/rifqieeeee/FFF_project/assets/52254229/c913a719-798e-46b1-b437-60c1332ab0ee)# FFF Project (Flame-Free Farm)
 
 Link : https://maker.wiznet.io/rifqieeeee/contest/fff%2Dproject%2Dflame%2Dfree%2Dfarm/
 
@@ -9,12 +9,15 @@ Livestock farming is a crucial sector in the economy, providing food sources suc
 
 ## Solutions
 
+![Solutions](https://hackster.imgix.net/uploads/attachments/1723051/flame_free_farm_OAZ3uf1EFT.jpg?auto=compress%2Cformat&w=1280&h=960&fit=max)
 We need to implement serious preventive measures to address this issue. To tackle this problem, the FFF Project has been developed. The FFF Project is a system designed to monitor methane gas levels, significant temperature changes above threshold limits, and the presence of smoke that may arise from electrical short circuits or discarded cigarette butts. This comprehensive monitoring system aims to provide early detection of potential fire hazards, ensuring timely interventions and enhancing the safety and security of livestock farms. By continuously tracking these critical parameters, the FFF Project helps prevent fires, thereby protecting livestock, workers, and the farm's infrastructure from potentially devastating incidents.
 
+![Additional](https://hackster.imgix.net/uploads/attachments/1722912/4_RiYLKaRJdX.jpg?auto=compress%2Cformat&w=1280&h=960&fit=max)
 Additionally, to enhance the security of the livestock, a goat counter feature has been incorporated. Many farmers, including my father, have expressed concerns about goat theft. Therefore, this feature has been added to the FFF Project as a supplementary tool to count the number of goats in the pen. This helps in ensuring the goats' safety and provides peace of mind to the farmers by enabling them to monitor and verify the presence of all their livestock at all times.
 
 ## How it Works
 
+![How it Works](https://hackster.imgix.net/uploads/attachments/1723062/flame_free_farm_(1)_K5LGgeJPq5.jpg?auto=compress%2Cformat&w=740&h=555&fit=max)
 This system is divided into two subsystems:
 
 ### Monitoring Subsystem
