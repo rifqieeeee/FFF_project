@@ -4,6 +4,7 @@ Link : https://maker.wiznet.io/rifqieeeee/contest/fff%2Dproject%2Dflame%2Dfree%2
 
 ## Problem
 
+![Problem](https://hackster.imgix.net/uploads/attachments/1715688/2_rtvJrhr829.jpg?auto=compress%2Cformat&w=1280&h=960&fit=max)
 Livestock farming is a crucial sector in the economy, providing food sources such as meat and milk, along with other by-products for human consumption. However, livestock farms also face a high risk of fire, which can be triggered by various factors. Common causes of farm fires include electrical short circuits and discarded cigarette butts by workers. This risk is further exacerbated by the presence of methane gas (CH4). The manure from livestock, especially cattle and goats, contains high levels of organic matter that, when decomposed by microorganisms through anaerobic fermentation, produces methane as a primary by-product. Methane is a highly flammable gas that can form explosive mixtures in the air if it accumulates in sufficient concentrations. This situation makes livestock farms a hazardous environment prone to fires, posing threats not only to the safety of the animals and workers but also potentially causing significant economic losses and environmental damage. Therefore, an effective early fire detection system is necessary to proactively monitor and manage this risk.
 
 ## Solutions
