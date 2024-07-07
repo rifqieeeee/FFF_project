@@ -18,6 +18,7 @@ Additionally, to enhance the security of the livestock, a goat counter feature h
 ## How it Works
 
 ![How it Works](https://hackster.imgix.net/uploads/attachments/1723062/flame_free_farm_(1)_K5LGgeJPq5.jpg?auto=compress%2Cformat&w=740&h=555&fit=max)
+
 This system is divided into two subsystems:
 
 ### Monitoring Subsystem
